@@ -1,0 +1,6 @@
+*.log
+*.db
+file.log
+README.md
+/target
+/bin
